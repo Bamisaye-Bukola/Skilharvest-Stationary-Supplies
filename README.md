@@ -48,6 +48,7 @@ Various Questions can be asked about the Skilharvest Stationary Dataset to gain 
 
 
 ## Results/Findings
+(https://github.com/Bamisaye-Bukola/Skilharvest-Stationary-Supplies/assets/158211833/f5846b92-59f5-4797-81a6-899c273c401c)
 
  In 2014, Skilharvest Stationary Supplies experienced distinct sales trends;
 
@@ -57,6 +58,8 @@ Various Questions can be asked about the Skilharvest Stationary Dataset to gain 
 
 
 In 2015,the sales data for Skilharvest Stationary Supplies reveals the following key insights;
+
+(https://github.com/Bamisaye-Bukola/Skilharvest-Stationary-Supplies/assets/158211833/ab4b4f9b-341b-4cac-974b-d8bb073e02aa)
 
 * Bill emerged as the sales representative with the highest sales figures for the year.
 * Sales were recorded from January to June, with the highest sales occurring in february.
